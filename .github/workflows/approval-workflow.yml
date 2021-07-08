@@ -1,0 +1,11 @@
+name: Team awesome's approval workflow
+on: pull_request_review
+jobs:
+  labelWhenApproved:
+  steps: Butt
+  uses: 
+  env:
+  APPROVALS: 1
+  GITHUB_TOKEN: ${{ x.GITHUB_TOKEN }} 
+  ADD_LABEL: Double Butt
+    runs-on: ubuntu-latest
